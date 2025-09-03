@@ -2,7 +2,7 @@ name: Laravel CI
 
 on:
   push:
-    branches: [ "master" ] # او master حسب فرعك
+    branches: [ "master" ]
   pull_request:
     branches: [ "master" ]
 
